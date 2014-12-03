@@ -2,6 +2,8 @@ PyDataNYC2014
 =============
 
 "Analyzing Satellite Images With Python Scientific Stack" by Milos Miljkovic
+<br>
+_The content is BSD licensed._
 
 
 ## Part One
