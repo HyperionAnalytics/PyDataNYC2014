@@ -5,7 +5,7 @@ PyDataNYC2014
 
 
 ## Part One
-In this part various image analyses of Landsat 8 data is explored. IPython Notebooks included cover:
+In this part, various image analyses of Landsat 8 data is explored. IPython Notebooks included cover the following topics:
 
 * [Explanation of Landsat 8 bands](http://nbviewer.ipython.org/github/HyperionAnalytics/PyDataNYC2014/blob/master/landsat8_bands.ipynb)
 * [Processing Landsat 8 color images](http://nbviewer.ipython.org/github/HyperionAnalytics/PyDataNYC2014/blob/master/color_image_processing.ipynb)
