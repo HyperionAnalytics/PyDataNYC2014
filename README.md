@@ -12,3 +12,15 @@ In this part, various image analyses of Landsat 8 data are explored. IPython Not
 * [Processing Landsat 8 color images](http://nbviewer.ipython.org/github/HyperionAnalytics/PyDataNYC2014/blob/master/color_image_processing.ipynb)
 * [Landsat 8 panchromatic image sharpening](http://nbviewer.ipython.org/github/HyperionAnalytics/PyDataNYC2014/blob/master/panchromatic_sharpening.ipynb)
 * [Calculating NDVI](http://nbviewer.ipython.org/github/HyperionAnalytics/PyDataNYC2014/blob/master/ndvi_calculation.ipynb)
+
+#### Landsat 8 bands
+![alt text](https://github.com/HyperionAnalytics/PyDataNYC2014/blob/master/images/Landsat8_bands.png "Landsat 8 bands")
+
+#### Landsat 8 color images
+![alt text](https://github.com/HyperionAnalytics/PyDataNYC2014/blob/master/images/Landsat8_color_image.png "Landsat 8 color image")
+
+#### Landsat 8 panchromatic image sharpening
+![alt text](https://github.com/HyperionAnalytics/PyDataNYC2014/blob/master/images/pansharpening_image.png "Panchromatic image sharpening")
+
+#### NDVI calculation
+![alt text](https://github.com/HyperionAnalytics/PyDataNYC2014/blob/master/images/ndvi_image.png "NDVI calculation")
