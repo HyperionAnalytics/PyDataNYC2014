@@ -24,3 +24,8 @@ In this part, various image analyses of Landsat 8 data are explored. IPython Not
 
 #### NDVI calculation
 ![alt text](https://github.com/HyperionAnalytics/PyDataNYC2014/blob/master/images/ndvi_image.png "NDVI calculation")
+
+## Part Two
+
+* [Image Sampling - Uniform Random and Poisson-disc Sampling]()
+![alt text](https://github.com/HyperionAnalytics/PyDataNYC2014/blob/master/images/poisson_sampling.png "Poisson-disc sampling")
